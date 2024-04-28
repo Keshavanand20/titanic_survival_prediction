@@ -1,0 +1,3 @@
+#The data for the model has been taken from URL: https://www.kaggle.com/c/titanic
+#we used the train.csv file to get the data from
+# and with the help of ngrok and flask I created a interface to use this model
